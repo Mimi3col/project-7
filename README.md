@@ -4,7 +4,7 @@ Submitted by: **Amanda Coleman**
 
 This web app: **A simple application to allow the user to keep track of the DnD Characters that they create**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
